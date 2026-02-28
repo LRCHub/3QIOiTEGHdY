@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "深海ディスタンス (self cover)",
+  "base_artist": "西憂花",
+  "createdAt": "2026-02-28T07:03:06.776221Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深海ディスタンス (self cover)",
+      "artist": "西憂花",
+      "has_synced": false,
+      "path": "select/pl_01_深海ディスタンス_(self_cover)_西憂花.txt"
+    }
+  ]
+}
